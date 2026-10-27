@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://theophile-gousselot.github.io/</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/index.html</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/these.html</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/disseminations.html</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/gousselot_theophile_cv_fr.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/gousselot_theophile_cv_en.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/gousselot_theophile_manuscrit_these.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/2025_06_18_gousselot_theophile_phd_defensis.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/cfi_paper_host_hal_version_PUBLISHED_VERSION.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://theophile-gousselot.github.io/doc/lce_paper_host_hal_version_PUBLISHED_VERSION.pdf</loc>
+       <lastmod>2026-10-27T10:27:57+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
